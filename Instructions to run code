@@ -1,0 +1,41 @@
+The code is run using eclipse IDE platform from the following steps
+
+1. Coding Assignment is the project created
+2. Goodies is the package created
+3. Main.java is the class which contains the code
+4. E:\\Sanjana\\input.txt is the path that contains input file.
+5. output.txt is the output file
+
+when run button is pressed output.txt file will be generated that consists of the following output.
+
+Number of the employees: 4
+
+Here the goodies that are selected for distribution are:
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+And the difference between the chosen goodie with highest price and the lowest price is 3121
+
+
+Number of employees: 6
+
+Here the goodies that are selected for distribution are:
+Sandwich Toaster: 2195
+Cult Pass: 2799
+Scale: 4999
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+
+And the difference between the chosen goodie with highest price and the lowest price is 7804
+
+
+Number of employees: 2
+
+Here the goodies that are selected for distribution are:
+Microwave Oven: 9800
+Alexa: 9999
+
+And the difference between the chosen goodie with highest price and the lowest price is 199
